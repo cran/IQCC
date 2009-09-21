@@ -27,3 +27,4 @@
 \examples{
 data(moonroof)
 }
+
