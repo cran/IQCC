@@ -20,3 +20,8 @@ export(add.data,
 	T2.2,
 	table.const,
 	table.qtukey)
+
+import(qcc)
+import(micEcon)
+import(MASS)
+importFrom(miscTools)
